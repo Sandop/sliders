@@ -1,0 +1,42 @@
+/* sliders.wxss */
+.slidersBox {
+    position: relative;
+    overflow: hidden;
+    width: 80%;
+    height: 120rpx;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 32rpx;
+    text-align: center;
+    line-height: 120rpx;
+}
+  
+.operationBgBox {
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    height: 120rpx;
+    background-color: #7BBB55;
+    border-radius: 5px;
+    color: #fff;
+}
+  
+.operationBox {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120rpx;
+    width: 50px;
+    background-color:#EBEBEB;
+}
+  
+.operationBox image {
+    width: 50%;
+    height: 50%;
+}
+  

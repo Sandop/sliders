@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "sliders": "/component/sliders/sliders"
+  }
+}
